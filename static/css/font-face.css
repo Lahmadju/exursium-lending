@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "Actay";
+  font-weight: 400;
+  src: local("Actay Regular"), 
+       local("Actay-Regular"), 
+       url("../fonts/woff2/Actay-Regular.woff2") format('woff2'),
+       url("../fonts/woff/Actay-Regular.woff") format('woff'),
+       url("../fonts/eot/Actay-Regular.eot") format('eot'),
+       url("../fonts/Actay-Regular.otf") format('otf');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Actay";
+  font-weight: 400;
+  src: local("Actay RegularItalic"), 
+       local("Actay-RegularItalic"), 
+       url("../fonts/woff2/Actay-RegularItalic.woff2") format('woff2'),
+       url("../fonts/woff/Actay-RegularItalic.woff") format('woff'),
+       url("../fonts/eot/Actay-RegularItalic.eot") format('eot'),
+       url("../fonts/Actay-RegularItalic.otf") format('otf');
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Actay Wide";
+  font-weight: 700;
+  src: local("ActayWide Bold"), 
+       local("ActayWide-Bold"), 
+       url("../fonts/woff2/ActayWide-Bold.woff2") format('woff2'),
+       url("../fonts/woff/ActayWide-Bold.woff") format('woff'),
+       url("../fonts/eot/ActayWide-Bold.eot") format('eot'),
+       url("../fonts/ActayWide-Bold") format('otf');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Actay Wide";
+  font-weight: 700;
+  src: local("ActayWide BoldItalic"), 
+       local("ActayWide-BoldItalic"), 
+       url("../fonts/woff2/ActayWide-BoldItalic.woff2") format('woff2'),
+       url("../fonts/woff/ActayWide-BoldItalic.woff") format('woff'),
+       url("../fonts/eot/ActayWide-BoldItalic.eot") format('eot');
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Actay Condensed";
+  font-weight: 250;
+  src: local("ActayCondensed Thin"), 
+       local("ActayCondensed-Thin"), 
+       url("../fonts/woff2/ActayCondensed-Thin.woff2") format('woff2'),
+       url("../fonts/woff/ActayCondensed-Thin.woff") format('woff'),
+       url("../fonts/eot/ActayCondensed-Thin.eot") format('eot');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Actay Condensed";
+  font-weight: 250;
+  src: local("ActayCondensed ThinItalic"), 
+       local("ActayCondensed-ThinItalic"), 
+       url("../fonts/woff2/ActayCondensed-ThinItalic.woff2") format('woff2'),
+       url("../fonts/woff/ActayCondensed-ThinItalic.woff") format('woff'),
+       url("../fonts/eot/ActayCondensed-ThinItalic.eot") format('eot');
+  font-style: italic;
+  font-display: swap;
+}
