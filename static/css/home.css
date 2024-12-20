@@ -16,6 +16,7 @@
     --Actay-Condensed: "Actay Condensed", sans-serif;
     --kalendar-pink-color: #fd8688;
 	--kalendar-blue-color: #7ac4f8;
+    overflow-x: hidden;
 }
 
 .container {
